@@ -1,3 +1,2 @@
 # Nishad
-git clone <repository-url>
-cd AppointmentSystem
+this is my first repository
